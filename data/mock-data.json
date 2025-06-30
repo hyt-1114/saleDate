@@ -1,0 +1,128 @@
+{
+  "salesData": [
+    {
+      "product": "バターフィナンシェ4入り",
+      "lastYear": 245400,
+      "target": 182000,
+      "actual": 172600,
+      "yoyGrowth": -29.7,
+      "achievementRate": 94.8
+    },
+    {
+      "product": "バターフィナンシェ8入り",
+      "lastYear": 280000,
+      "target": 280000,
+      "actual": 234600,
+      "yoyGrowth": -16.2,
+      "achievementRate": 83.8
+    },
+    {
+      "product": "バターフィナンシェ12入り",
+      "lastYear": 153900,
+      "target": 126000,
+      "actual": 131700,
+      "yoyGrowth": -14.4,
+      "achievementRate": 104.5
+    },
+    {
+      "product": "バターフィナンシェ16入り",
+      "lastYear": 106000,
+      "target": 98000,
+      "actual": 118000,
+      "yoyGrowth": 11.3,
+      "achievementRate": 120.4
+    },
+    {
+      "product": "バターカレット9入り",
+      "lastYear": 34400,
+      "target": 14000,
+      "actual": 12300,
+      "yoyGrowth": -64.2,
+      "achievementRate": 87.9
+    },
+    {
+      "product": "アソート(カステラ)",
+      "lastYear": 140000,
+      "target": 140000,
+      "actual": 143300,
+      "yoyGrowth": 2.4,
+      "achievementRate": 102.4
+    },
+    {
+      "product": "セレ16(14)",
+      "lastYear": 127700,
+      "target": 140000,
+      "actual": 124500,
+      "yoyGrowth": -2.5,
+      "achievementRate": 88.9
+    },
+    {
+      "product": "バターキャラメルポット",
+      "lastYear": 49700,
+      "target": 14000,
+      "actual": 15000,
+      "yoyGrowth": -69.8,
+      "achievementRate": 107.1
+    },
+    {
+      "product": "バターバイヤモンド(ショコラ)",
+      "lastYear": 93600,
+      "target": 98000,
+      "actual": 113800,
+      "yoyGrowth": 21.6,
+      "achievementRate": 116.1
+    },
+    {
+      "product": "抹茶フィナンシェ",
+      "lastYear": 146800,
+      "target": 140000,
+      "actual": 87100,
+      "yoyGrowth": -40.7,
+      "achievementRate": 62.2
+    },
+    {
+      "product": "レモンケーキ",
+      "lastYear": 79800,
+      "target": 168000,
+      "actual": 157500,
+      "yoyGrowth": 97.4,
+      "achievementRate": 93.8
+    }
+  ],
+  "summaryData": {
+    "currentYear": {
+      "sales": 15232494,
+      "customers": 6762,
+      "avgSpend": 2253
+    },
+    "lastYear": {
+      "sales": 17369756,
+      "customers": 6939,
+      "avgSpend": 2503
+    },
+    "difference": {
+      "sales": -2137262,
+      "customers": -177,
+      "avgSpend": -250
+    },
+    "ratio": {
+      "sales": 87.7,
+      "customers": 97.4,
+      "avgSpend": 90.0
+    }
+  },
+  "monthlyTrend": [
+    { "month": "1月", "actual": 1200000, "target": 1100000 },
+    { "month": "2月", "actual": 1150000, "target": 1200000 },
+    { "month": "3月", "actual": 1320000, "target": 1250000 },
+    { "month": "4月", "actual": 1410000, "target": 1350000 },
+    { "month": "5月", "actual": 1530000, "target": 1480000 },
+    { "month": "6月", "actual": 1480000, "target": 1500000 },
+    { "month": "7月", "actual": 1620000, "target": 1550000 },
+    { "month": "8月", "actual": 1710000, "target": 1600000 },
+    { "month": "9月", "actual": 1590000, "target": 1650000 },
+    { "month": "10月", "actual": 1820000, "target": 1700000 },
+    { "month": "11月", "actual": 1950000, "target": 1800000 },
+    { "month": "12月", "actual": 2080000, "target": 1950000 }
+  ]
+}
